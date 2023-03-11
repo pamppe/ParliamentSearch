@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ParliamentSearch</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="ParliamentSearch" />
+    <string name="parliamentsearch">ParliamentSearch</string>
+    <string name="search">Search</string>
+    <string name="mainheader">Mainheader</string>
+    <string name="parliament">Parliament</string>
+    <string name="backgroundpic">BackgroundPic</string>
+    <string name="searchB">Search</string>
+    <string name="textview">TextView</string>
+</resources>
